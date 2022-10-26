@@ -1,4 +1,6 @@
 import 'dart:io' as io;
+import 'dart:typed_data';
+
 
 import 'package:dart_wormhole_william/client/file.dart';
 import 'package:file_picker/file_picker.dart' as file_picker_plugin;
